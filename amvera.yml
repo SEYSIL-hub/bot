@@ -6,7 +6,7 @@ meta:
   # Указываем версию Python (рекомендуется использовать актуальную)
   environment_version: 3.11 
   # !!! ЗАМЕНИТЕ 'bot.py' НА ИМЯ ВАШЕГО ОСНОВНОГО ФАЙЛА !!!
-  main_file: index.py 
+  main_file: index.py
 
 build:
   # Amvera автоматически установит зависимости из requirements.txt
