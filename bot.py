@@ -6,7 +6,7 @@ import os
 
 # --- КОНСТАНТЫ С ВАШИМИ ДАННЫМИ ---
 # Убедитесь, что переменная окружения TG_TOKEN установлена в вашей системе
-API_TOKEN = 8430418918:AAFljWxONqcsSnisTi1N7hjpr0afjxYg2Mc 
+API_TOKEN = '8430418918:AAFljWxONqcsSnisTi1N7hjpr0afjxYg2Mc'
 ADMIN_IDS = [995375387, 1081253267]
 # ----------------------------------
 
@@ -507,4 +507,5 @@ if __name__ == '__main__':
     load_chapters()
     load_config()
     bot.infinity_polling()
+
 
